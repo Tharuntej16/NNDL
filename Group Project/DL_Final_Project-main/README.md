@@ -2,6 +2,6 @@
 
 # SKIN DISEASES DETECTION USING DEEP LEARNING
 
-## Vamshi Krishna Rapolu
+## Tharun tej rathod JAtoth
 
-700742210
+700756008
